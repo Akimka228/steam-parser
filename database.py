@@ -3,7 +3,7 @@ import json
 
 headers = {
     'content-type': "application/json",
-    'x-apikey': "ac7f07c55617b5f40533d580f73a697cb79a5",
+    'x-apikey': "",
     'cache-control': "no-cache"
     }
 

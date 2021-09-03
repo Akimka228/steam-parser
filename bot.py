@@ -3,7 +3,7 @@ from bot_keyboard import get_main_keyboard, cancel_keyboard
 import requests
 from database import add_following_link
 
-bot_apikey = '1911721529:AAGX1irpdkEcS1N12L-HADNNmKl-qVe6pgQ'
+bot_apikey = ''
 bot = telebot.TeleBot(bot_apikey)
 
 
